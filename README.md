@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Computer Science Engineering Student<br>💻 Interested in Software Development & AI/ML<br>⚙️ Skilled in Python, Java, JavaScript, SQL<br>🚀 Building real-world projects (AI, Web Apps, Systems)<br>🌱 Continuously learning and exploring new technologies
 
 
